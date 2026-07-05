@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : *name
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate at Federal University of Rio Grande do Sul (UFRGS) with Visiting Researcher period at Colorado State University (CSU). Adjunct Professor of Economics at FURG"
+  bio              : "PhD candidate in Economics"
   location         : "Brazil"
-  employer         : "Federal University of Rio Grande (FURG)"
+  employer         : "FURG"
   uri              : # URL
   email            : "rafaelpahim96@gmail.com" 
 
