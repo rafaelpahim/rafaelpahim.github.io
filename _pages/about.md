@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[PREENCHER: escreva 1-2 parágrafos de apresentação. Ex: I am a PhD candidate in Economics at the Federal University of Rio Grande do Sul (UFRGS), with a Visiting Researcher period at Colorado State University (CSU). I also serve as Adjunct Professor of Economics at the Federal University of Rio Grande (FURG). My research focuses on ___.]
+I am Adjunct Professor of Economics at Federal University of Rio Grande (Brazil). PhD candidate in Economics at Federal University of Rio Grande do Sul (UFRGS) with Visiting Research period at Colorado State Univeristy (2024-2025).I hold both a master’s and bachelor’s degree from the UFRGS.
 
 Research Interests
 ======
